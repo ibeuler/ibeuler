@@ -8,7 +8,7 @@ I am a **double major student** at **Istanbul University**, pursuing degrees in 
 - 👯 I’m looking to collaborate on open-source projects related to scientific computing and AI.
 <!-- - 🤔 I’m looking for help with integrating physics models into real-world applications using computational tools. -->
 - 💬 Ask me about physics, programming, or how to juggle two majors!
-- 📫 How to reach me: [Email](mailto:ibohamed27@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ibrahim-abu-shawish-26798a1bb/)
+- 📫 How to reach me: [Email](mailto:ibohamed27@gmail.com) | [LinkedIn](www.linkedin.com/in/ibeuler/)
 - ⚡ Fun fact: My nickname, **ibeuler**, is inspired by my name and the mathematician Euler (plus, I’m a bit of a night owl! 🦉).
 
 ### Skills
